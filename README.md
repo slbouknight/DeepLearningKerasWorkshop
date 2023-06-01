@@ -1,0 +1,2 @@
+# DeepLearningKerasWorkshop
+ Used Keras to solve a variety of problems using real-world datasets. Covered classification tasks for online shoppers, hepatitis C data, and failure data for Scania trucks, as well as regression tasks such as predicting the aquatic toxicity of various chemicals when given various chemical attributes. Also performed image classification tasks and built CNN models to predict whether images are of flowers or cars, and  built regression tasks to predict future stock prices with RNNs. 
